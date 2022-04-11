@@ -5,6 +5,8 @@ import (
 )
 
 func main() {
+	fmt.Println("1")
+
 	fmt.Println("hello world, hehehe!!!")
 	fmt.Println("string to trigger    push event")
 
