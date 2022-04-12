@@ -10,8 +10,8 @@ func main() {
 	fmt.Println("3")
 	fmt.Println("main branch")
 
-	fmt.Println("adding new extra feature")
-	fmt.Println("lalalalalalal")
+	fmt.Println("adddding new extra feature")
+	fmt.Println("lalaaalalalalal")
 
 	fmt.Println("hello world, hehehe!!!")
 	fmt.Println("string to trigger    push event")
